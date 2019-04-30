@@ -1,6 +1,6 @@
 # firstproject
 My personal playground...
-## First section
+## Introduction
 
 ## Second section
 
