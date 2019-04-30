@@ -4,8 +4,8 @@ My personal playground...
 
 ## Second section
 
-## usage
+## Usage
 
-## output files
+## Output files
 
 ## Authors
